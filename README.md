@@ -52,6 +52,9 @@ The primary source of data used here is Data Sale.csv and this is an open source
 
 ![image](https://github.com/user-attachments/assets/f7aabfe2-dda1-4e24-aa01-bc359ff20e12)
 
+😆 
+💻
+
 
 
 
