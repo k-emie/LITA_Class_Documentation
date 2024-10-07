@@ -14,6 +14,12 @@
 
 [Exploratory Data Analysis](#exploratory-data-analysis)
 
+[Data Analysis](#data-analysis)
+
+[Data Visualisation](#data-visualisation)
+
+
+
 
 
 
