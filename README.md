@@ -48,6 +48,7 @@ The primary source of data used here is Data Sale.csv and this is an open source
   ### Data Visualisation
   ---
 
+![image](https://github.com/user-attachments/assets/a48af409-c836-4785-9600-1f9840c28c6f)
 
 
 
